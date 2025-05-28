@@ -1,5 +1,3 @@
-# AnalisandoBackhaul
-
 # 📊 Análise de Prestadoras de Backhaul - São José dos Campos
 
 Este projeto realiza uma análise detalhada dos dados de prestadoras de serviços de backhaul em São José dos Campos, categorizando-as por meio de transporte utilizado (Fibra, Rádio ou Ambos).
